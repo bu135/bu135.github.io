@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Ph.D student from [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.pku.edu.cn/) advised by [Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). In 2021, I received my BS degree from the Department of Automation, THU.
+I'm a third year Ph.D student from [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) advised by [Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). In 2021, I received my BS degree from the Department of Automation, THU.
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/bu135) / [Wechat](../images/wechat.jpg) 
 
 
 A data-driven personal website
