@@ -1,5 +1,6 @@
 ---
 title: "A Vision-based inventory method for stacked goods in stereoscopic warehouse"
+collection: publications
 author: Haonan Yin
 date: 2022-07-21
 venue: 'Neural Computing and Applications'
