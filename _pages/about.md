@@ -18,11 +18,7 @@ I am interested in many kinds of sports, especially bodybuilding, **soccer** ⚽
 
 You can find my CV here: [Haonan Yin's Curriculum Vitae](../assets/Haonan Yin的简历.pdf) and [Chinese Version](../assets/殷昊男的简历.pdf).
 
-[Email](yhn21@mails.tsinghua.edu.cn) / [Github](https://github.com/bu135) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:yhn21@mails.tsinghua.edu.cn) / [Github](https://github.com/bu135) / [Wechat](../images/wechat.jpg) 
 
-======
-
-## Publications
-blabla
 
 
